@@ -1,3 +1,63 @@
-ol li {
-  list-style-type: none;
+body {
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+
+nav {
+  padding-top: 40px;
+  color: black;
+}
+ol {
+  list-style: none;
+}
+p {
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+nav h1 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+}
+header {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+.about h2 {
+  font-size: 20px;
+  border-top: 1px solid black;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 40px;
+}
+.portfolio h2 {
+  font-size: 20px;
+  border-top: 1px solid black;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 40px
+}
+.portfolio p {
+  font-size: 15px;
+  padding-left: 265px;
+  padding-right: 300px;
+  padding-top: 10px
+}
+.about p {
+  padding-left: 269px;
+  border-bottom: 1px solid black;
+  padding-bottom: 40px;
+}
+h3 {
+  font-size: 20px;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 40px;
 }
