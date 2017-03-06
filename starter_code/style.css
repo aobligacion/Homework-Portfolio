@@ -37,7 +37,7 @@ a {
 .about h2 {
   font-size: 20px;
   border-top: 1px solid black;
-  padding-left: 300px;
+  margin-left: 269px;
   padding-right: 300px;
   padding-top: 40px;
 }
@@ -45,8 +45,8 @@ a {
   font-size: 20px;
   font-weight: 900;
   border-top: 1px solid black;
-  padding-left: 300px;
-  padding-right: 300px;
+  margin-left: 300px;
+  margin-right: 300px;
   padding-top: 40px
 }
 .portfolio p {
@@ -56,9 +56,9 @@ a {
   padding-top: 10px
 }
 .about p {
-  padding-left: 269px;
+  margin-left: 269px;
   border-bottom: 1px solid black;
-  padding-bottom: 40px;
+  padding-bottom: 70px;
 }
 h3 {
   font-size: 20px;
@@ -91,4 +91,9 @@ h3 {
 
 em {
   font-weight: bold;
+}
+.avatar img {
+width: 100px;
+border: 1px solid black;
+padding: 10px;
 }
